@@ -1,0 +1,103 @@
+[
+  {
+    "name": "apple",
+    "amount": 35,
+    "price": 4.0,
+    "weight": 1.5,
+    "category": [
+      "FOOD"
+    ],
+    "id": 0
+  },
+  {
+    "name": "orange",
+    "amount": 40,
+    "price": 5.0,
+    "weight": 1.7,
+    "category": [
+      "FOOD"
+    ],
+    "id": 1
+  },
+  {
+    "name": "mango",
+    "amount": 20,
+    "price": 7.0,
+    "weight": 1.1,
+    "category": [
+      "FOOD"
+    ],
+    "id": 2
+  },
+  {
+    "name": "banan",
+    "amount": 50,
+    "price": 6.0,
+    "weight": 2.2,
+    "category": [
+      "FOOD"
+    ],
+    "id": 3
+  },
+  {
+    "name": "iphone",
+    "amount": 10,
+    "price": 2000.0,
+    "weight": 1.3,
+    "category": [
+      "ELECTRICAL"
+    ],
+    "id": 4
+  },
+  {
+    "name": "ventilator",
+    "amount": 10,
+    "price": 150.0,
+    "weight": 20.0,
+    "category": [
+      "ELECTRICAL"
+    ],
+    "id": 5
+  },
+  {
+    "name": "monitor",
+    "amount": 5,
+    "price": 300.0,
+    "weight": 15.5,
+    "category": [
+      "ELECTRICAL"
+    ],
+    "id": 6
+  },
+  {
+    "name": "sneakers",
+    "amount": 150,
+    "price": 200.0,
+    "weight": 4.0,
+    "category": [
+      "SHOES",
+      "SPORTING_GOODS"
+    ],
+    "id": 7
+  },
+  {
+    "name": "cap",
+    "amount": 80,
+    "price": 50.0,
+    "weight": 0.6,
+    "category": [
+      "SPORTING_GOODS"
+    ],
+    "id": 8
+  },
+  {
+    "name": "shorts",
+    "amount": 60,
+    "price": 40.0,
+    "weight": 1.9,
+    "category": [
+      "SPORTING_GOODS"
+    ],
+    "id": 9
+  }
+]

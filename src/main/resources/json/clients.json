@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Yan",
+    "surname": "Morozik",
+    "mail": "yan.morozik.2002@mail.ru",
+    "cellphone": "+375336886557",
+    "id": 0
+  },
+  {
+    "name": "Yaroslav",
+    "surname": "Belyatko",
+    "mail": "yaroslav.belyatko.2001@mail.ru",
+    "cellphone": "+375335573213",
+    "id": 1
+  },
+  {
+    "name": "Ivan",
+    "surname": "Glebov",
+    "mail": "ivan.glebov.2001@mail.ru",
+    "cellphone": "+375335619503",
+    "id": 2
+  },
+  {
+    "name": "Arseniy",
+    "surname": "kovalov",
+    "mail": "arsen.sheiko.2001@mail.ru",
+    "cellphone": "+375294312521",
+    "id": 3
+  },
+  {
+    "name": "Artuom",
+    "surname": "Prokopovich",
+    "mail": "artyom.pro.2001@mail.ru",
+    "cellphone": "+375335531648",
+    "id": 4
+  },
+  {
+    "name": "Vladimir",
+    "surname": "Kondratenko",
+    "mail": "vova.kondr.2002@mail.ru",
+    "cellphone": "+37533854082",
+    "id": 5
+  },
+  {
+    "name": "Ilia",
+    "surname": "Bulkovskiy",
+    "mail": "ilia.bulk.2000@mail.ru",
+    "cellphone": "+375338857645",
+    "id": 6
+  },
+  {
+    "name": "Anton",
+    "surname": "Prokoshin",
+    "mail": "anton.prokosh.2003@mail.ru",
+    "cellphone": "+3752912209453",
+    "id": 7
+  },
+  {
+    "name": "Oleg",
+    "surname": "Ostrovskiy",
+    "mail": "oleg.ostr.2002@mail.ru",
+    "cellphone": "+375333954431",
+    "id": 8
+  },
+  {
+    "name": "Segey",
+    "surname": "Koipish",
+    "mail": "sergey.koip.2001@mail.ru",
+    "cellphone": "+375338740113",
+    "id": 9
+  },
+  {
+    "name": "Vlad",
+    "surname": "Novikov",
+    "mail": "vlad.novik.2002@mail.ru",
+    "cellphone": "+375335697665",
+    "id": 10
+  }
+]
